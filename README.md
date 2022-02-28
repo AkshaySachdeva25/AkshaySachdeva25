@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **DATA SCIENCE**
+- 🌱 I’m currently learning **React && .Net**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
